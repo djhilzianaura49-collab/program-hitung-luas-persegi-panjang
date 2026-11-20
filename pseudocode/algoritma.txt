@@ -30,7 +30,7 @@ E. ANALISIS INPUT, PROSES, DAN OUTPUT
    - Input lebar persegi panjang
 
 2. PROSES:
-   - Mhitung luas persegi panjang
+   - Menghitung luas persegi panjang
    - Rumus: L = p*l
 
 3. OUTPUT:
